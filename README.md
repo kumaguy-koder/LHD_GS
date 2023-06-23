@@ -1,2 +1,3 @@
-# isp04
-情報科学プロジェクト演習：ホログラムデザイン
+# Lecture for hologram design 4
+***
+Optimization of CGH by GS
