@@ -1,3 +1,3 @@
-# Lecture for hologram design 4
+# Lecture for hologram design
 ***
-Optimization of CGH by GS
+GS method
